@@ -1,2 +1,2 @@
 # basicdetailsform
-# host
+# host https://rudrarai.github.io/basicdetailsform/
